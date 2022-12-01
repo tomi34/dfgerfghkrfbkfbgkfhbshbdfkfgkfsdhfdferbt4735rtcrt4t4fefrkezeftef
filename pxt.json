@@ -1,0 +1,25 @@
+{
+    "name": "dfgerfghkrfbkfbgkfhbshbdfkfgkfsdhfdferbt4735rtcrt4t4fefrkezefteftegfr7teigftrzzzzzwicgftrwitu54iufrzi6ftwdtfejztwdwggggggg63455r43r64hzwdugg5f4g6s5r43usg344444444u55gdshhhhhhhhhhhhhhhhhhhhhhhfetzwurrrrrrrrr54w65r436w528rq58er538q3e356qr35e682urq",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
